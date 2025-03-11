@@ -24,6 +24,10 @@ I'm a passionate **Computer Science Engineering** student with a keen interest i
 - **Databases**: MongoDB, Firebase  
 - **Other Tools**: Git, GitHub, VS Code, Bootstrap  
 
+---
+
+### 📊 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-Raj6566&show_icons=true&theme=dark)
 
 ---
 
